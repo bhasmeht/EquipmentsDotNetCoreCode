@@ -1,4 +1,4 @@
-﻿using ElectronicEquipment.Models;
+﻿using  ElectronicEquipment.Models;
 using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
